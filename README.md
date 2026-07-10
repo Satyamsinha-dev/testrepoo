@@ -1,3 +1,3 @@
 # testrepoo
 
-Learning GitHub 🚀
+Learning GitHub 🚀.

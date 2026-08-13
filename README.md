@@ -8,4 +8,4 @@ just a normal repoo!!
 just enjoying uni!
 thinking of a startup
 <br>
-i am researching how to grow any startup...
+

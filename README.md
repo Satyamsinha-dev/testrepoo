@@ -1,11 +1,23 @@
-# testrepooo
+# 🧪 Random Lab
 
+> I had an idea.  
+> I coded it.  
+> I have no idea why.
 
-Learning GitHub 🚀
-Doing some random stuffsss!!
-<br>
-just a normal repoo!!
-just enjoying uni!
-thinking of a startup
-<br>
+Just a place for random experiments, tiny programs,
+unnecessary ideas, university-time coding and occasional chaos.
 
+Sometimes useful.
+Sometimes completely pointless.
+Always coded. 🚀
+
+Currently:
+- Learning C++
+- Learning DSA
+- Building random stuff
+- Thinking about startups
+- Enjoying university
+
+No roadmap.
+No pressure.
+Just code.

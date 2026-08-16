@@ -21,4 +21,4 @@ Currently:
 No roadmap.
 No pressure.
 Just code.
-and most imporntant 
+and most important live and enjoy

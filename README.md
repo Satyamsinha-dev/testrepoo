@@ -22,3 +22,5 @@ No roadmap.
 No pressure.
 Just code.
 and most important live and enjoy.
+random thoughts
+
